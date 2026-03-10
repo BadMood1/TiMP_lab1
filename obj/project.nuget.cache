@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmVyYtvZoZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\PrikoLbI\\2coursePROG\\lab1_4sem\\lab1_4sem\\Lab1_4Sem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

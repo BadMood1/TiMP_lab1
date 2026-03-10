@@ -1,0 +1,28 @@
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\bin\Debug\net8.0\lab1_4sem.exe
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\bin\Debug\net8.0\lab1_4sem.deps.json
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\bin\Debug\net8.0\lab1_4sem.runtimeconfig.json
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\bin\Debug\net8.0\lab1_4sem.dll
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\bin\Debug\net8.0\lab1_4sem.pdb
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.AssemblyInfoInputs.cache
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.AssemblyInfo.cs
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.csproj.CoreCompileInputs.cache
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.dll
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\refint\lab1_4sem.dll
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.pdb
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\lab1_4sem.genruntimeconfig.cache
+C:\Users\georu\source\repos\NSTU 2025\lab1_4sem\lab1_4sem\obj\Debug\net8.0\ref\lab1_4sem.dll
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\bin\Debug\net8.0\Lab1_4Sem.exe
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\bin\Debug\net8.0\Lab1_4Sem.deps.json
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\bin\Debug\net8.0\Lab1_4Sem.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\bin\Debug\net8.0\Lab1_4Sem.dll
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\bin\Debug\net8.0\Lab1_4Sem.pdb
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.dll
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\refint\Lab1_4Sem.dll
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.pdb
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\Lab1_4Sem.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0\ref\Lab1_4Sem.dll
