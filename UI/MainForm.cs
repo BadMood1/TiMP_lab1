@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Drawing;
 using System.Windows.Forms;
 using Lab1_4Sem.Models;
 using Lab1_4Sem.Services;
@@ -115,19 +116,19 @@ namespace Lab1_4Sem.UI
                 WrapContents = false
             };
 
-            _btnAddComponent = new Button { Text = "Добавить", Width = 160 };
+            _btnAddComponent = new Button { Text = "Добавить", Width = 160, Height = 30 };
             _btnAddComponent.Click += (s, e) => OnAddComponent();
 
-            _btnDeleteComponent = new Button { Text = "Удалить", Width = 160 };
+            _btnDeleteComponent = new Button { Text = "Удалить", Width = 160, Height = 30 };
             _btnDeleteComponent.Click += (s, e) => OnDeleteComponent();
 
-            _btnSave = new Button { Text = "Сохранить", Width = 160 };
+            _btnSave = new Button { Text = "Сохранить", Width = 160, Height = 30 };
             _btnSave.Click += (s, e) => OnSaveChanges();
 
-            _btnCancel = new Button { Text = "Отменить", Width = 160 };
+            _btnCancel = new Button { Text = "Отменить", Width = 160, Height = 30 };
             _btnCancel.Click += (s, e) => OnCancelChanges();
 
-            _btnRefreshComponents = new Button { Text = "Обновить", Width = 160 };
+            _btnRefreshComponents = new Button { Text = "Обновить", Width = 160, Height = 30 };
             _btnRefreshComponents.Click += (s, e) => RefreshAll();
 
             buttonsPanel.Controls.AddRange(new Control[]
@@ -189,13 +190,13 @@ namespace Lab1_4Sem.UI
                 WrapContents = false
             };
 
-            _btnAddSpec = new Button { Text = "Добавить", Width = 160 };
+            _btnAddSpec = new Button { Text = "Добавить", Width = 160, Height = 30 };
             _btnAddSpec.Click += (s, e) => OnAddSpec();
 
-            _btnDeleteSpec = new Button { Text = "Удалить", Width = 160 };
+            _btnDeleteSpec = new Button { Text = "Удалить", Width = 160, Height = 30 };
             _btnDeleteSpec.Click += (s, e) => OnDeleteSpec();
 
-            _btnRefreshSpec = new Button { Text = "Обновить", Width = 160 };
+            _btnRefreshSpec = new Button { Text = "Обновить", Width = 160, Height = 30 };
             _btnRefreshSpec.Click += (s, e) => RefreshAll();
 
             buttonsPanel.Controls.AddRange(new Control[] { _btnAddSpec, _btnDeleteSpec, _btnRefreshSpec });

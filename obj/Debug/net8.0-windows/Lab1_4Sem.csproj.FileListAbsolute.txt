@@ -12,3 +12,4 @@ C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Deb
 C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0-windows\Lab1_4Sem.pdb
 C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0-windows\Lab1_4Sem.genruntimeconfig.cache
 C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0-windows\ref\Lab1_4Sem.dll
+C:\Users\andre\OneDrive\Desktop\PrikoLbI\2coursePROG\lab1_4sem\lab1_4sem\obj\Debug\net8.0-windows\Lab1_4Sem.sourcelink.json
